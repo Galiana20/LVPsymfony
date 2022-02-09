@@ -1,0 +1,8 @@
+App\Entity\Noticia:
+  attributes:
+    id:
+      groups: ['noticia']
+    title:
+      groups: ['noticia']
+    image:
+      groups: ['noticia']

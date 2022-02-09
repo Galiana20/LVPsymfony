@@ -1,0 +1,10 @@
+App\Entity\Contacto:
+  attributes:
+    id:
+      groups: ['contacto']
+    nombre:
+      groups: ['contacto']
+    correo:
+      groups: ['contacto']
+    texto:
+      groups: ['contacto']
